@@ -8,5 +8,7 @@
 @endsection
 
 @section('konten')
-    <main class=""></main>
+    <main class="">
+        <h1>Test</h1>
+    </main>
 @endsection

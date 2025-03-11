@@ -31,7 +31,7 @@
 
 <body class="overflow-x-hidden min-h-screen h-full bg-[#fff8eb]">
     @auth
-        @include('shared.navigation.hamburger-menu')
+        @include('shared.navigation.header')
     @endauth
     @yield('konten')
     @stack('skrip')
